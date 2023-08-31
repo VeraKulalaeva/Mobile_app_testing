@@ -10,3 +10,5 @@
 2) Для модуля на создание таски - <a href="https://disk.yandex.ru/d/K3MUjhOyebuIPg">тестовый набор</a> с кейсами в системе QASE
 
 3) На основании написанной документации оформлены отчеты о дефекте в YouTrack. С несколькими примерами можно ознакомиться по <a href="https://disk.yandex.ru/d/vsllmhE7YpccrQ">ссылке</a>.
+
+4) По результатам тестирования составлен <a href="https://docs.google.com/document/d/1y20YXpwAX1sO2YKxy6fjryL28nNqT75lkn6FuvlsDVc/edit?usp=sharing">отчет</a>.
